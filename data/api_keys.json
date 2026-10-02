@@ -1,0 +1,52 @@
+[
+  {
+    "is_active": true,
+    "key_hash": "8f609dae3d155a0f88724e16fe80d212af5f04e8b49039bf74b8b40b05d95526",
+    "key_prefix": "br_live_e127f2b9",
+    "permissions": [
+      "read_sites",
+      "read_categories",
+      "read_site_details",
+      "read_statistics",
+      "read_discord_partners",
+      "read_languages",
+      "full_access"
+    ],
+    "window_count": 0,
+    "last_used": null,
+    "name": "New website",
+    "rate_limit_per_hour": 1000,
+    "window_start": null,
+    "request_count": 0,
+    "id": "6abac304fac2fa8854388f46",
+    "created_date": "2026-09-28T19:41:56.324000",
+    "updated_date": "2026-09-28T19:41:56.324000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "is_active": true,
+    "key_hash": "84d4a1d01b45b3ab5e51416c9160e0755d88dc0149408477d1b8fdc44e366553",
+    "key_prefix": "br_live_8165b9cc",
+    "permissions": [
+      "read_sites",
+      "full_access",
+      "read_languages",
+      "read_discord_partners",
+      "read_statistics",
+      "read_site_details",
+      "read_categories"
+    ],
+    "window_count": 7,
+    "last_used": "2026-09-20T19:55:21.245Z",
+    "name": "Mobile app",
+    "rate_limit_per_hour": 1000,
+    "window_start": "2026-09-20T19:55:21.183Z",
+    "request_count": 7,
+    "id": "6ab0321a2930764b07166b68",
+    "created_date": "2026-09-20T19:20:58.026000",
+    "updated_date": "2026-09-20T19:55:21.330000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  }
+]
