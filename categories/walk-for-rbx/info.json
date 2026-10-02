@@ -1,0 +1,20 @@
+{
+  "icon_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/4cb3135c7_1000058749.png",
+  "icon_source": "uploaded",
+  "is_visible": true,
+  "color": "#D4AF37",
+  "image_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/e4f98df0b_1000058751.png",
+  "description": "Apps that reward physical activity.",
+  "seo_title": null,
+  "image_source": "uploaded",
+  "is_deleted": false,
+  "name": "Walk for Rbx",
+  "seo_description": null,
+  "sort_order": 8,
+  "slug": "walk-for-rbx",
+  "id": "6a82cff2521fc70c8a830992",
+  "created_date": "2026-08-17T09:10:10.906000",
+  "updated_date": "2026-08-18T23:14:20.979000",
+  "created_by_id": "6a82cd9cb7ad28d36744964e",
+  "is_sample": false
+}
