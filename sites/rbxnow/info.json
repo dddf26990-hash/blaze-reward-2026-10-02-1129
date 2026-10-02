@@ -1,0 +1,33 @@
+{
+  "like_count": 0,
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=rbx.now",
+  "description": "",
+  "click_count": 5,
+  "promo_code": "",
+  "has_copy_code": false,
+  "url": "https://rbx.now/promos/74AZVG9",
+  "platform": "any",
+  "tags": [],
+  "is_enabled": true,
+  "logo_source": "manual",
+  "admin_notes": "",
+  "is_archived": false,
+  "original_url": "https://rbx.now/promos/74AZVG9",
+  "reward_info": "",
+  "name": "Rbxnow",
+  "warning": "",
+  "hero_image_url": "",
+  "mobile_compatible": true,
+  "category_ids": [
+    "6a82cff2521fc70c8a83098c"
+  ],
+  "sort_order": 0,
+  "is_featured": false,
+  "status": "active",
+  "slug": "Rbxnow",
+  "id": "6a8b51873e92af59fd652243",
+  "created_date": "2026-08-23T20:01:11.636000",
+  "updated_date": "2026-09-20T00:51:35.436000",
+  "created_by_id": "6a82e24f103b1f537a22246f",
+  "is_sample": false
+}
