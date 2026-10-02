@@ -1,0 +1,20 @@
+[
+  {
+    "sent_at": "2026-09-20T01:15:17.597Z",
+    "action_url": "action_url = https://bl4ze-rewards.base44.app",
+    "email_count": 0,
+    "audience": "all",
+    "send_email": false,
+    "scheduled_for": null,
+    "language": "all",
+    "recipient_count": 45,
+    "title": "BL4ZE.REWARD — Thank You & Major Website Update",
+    "message": "Hello,\n\nWe’re pleased to share a major update to BL4ZE.REWARD, and we would like to sincerely thank you for being part of our community.\n\nYour support and continued interest help us improve the platform and build a better experience for everyone.\n\nWhat’s new?\n\nA redesigned experience\nWe’ve improved the overall design, colors, buttons, navigation and responsiveness across both mobile and PC.\n\nA new icon system\nThe interface now features a more consistent and modern icon system, with cleaner Lucide-style icons throughout the platform.\n\nMore languages\nEnglish remains the main language, and we’ve added:\n\n• Français\n• Español\n• Русский\n\nNew “New” category\nWebsites added within the last 7 days can now be found in the dedicated New category and are marked with a New tag.\n\nImproved website URLs\nWebsite pages now use cleaner and more recognizable slugs.\n\nFor example:\n\n\"/site/Earnitz\"\n\ninstead of a long random ID.\n\nNew Discord notifications\nWe’ve also introduced our new @Bl4ze Reward Discord bot, which will automatically post website notifications every day at 11:30 AM French time.\n\nThank you\n\nThank you for supporting BL4ZE.REWARD and for being part of this growing community.\n\nThis update is only one step in our ongoing development. More improvements, new platforms and features are already planned.\n\nVisit BL4ZE.REWARD:\nhttps://bl4ze-rewards.base44.app\n\nThank you for being with us.\n\nThe BL4ZE.REWARD Team",
+    "status": "sent",
+    "id": "6aaf33a56aed30a2a544505a",
+    "created_date": "2026-09-20T01:15:17.662000",
+    "updated_date": "2026-09-20T01:15:17.662000",
+    "created_by_id": "service_54ca93b3-7833-4a7d-9a5c-d057f07443cc",
+    "is_sample": false
+  }
+]
