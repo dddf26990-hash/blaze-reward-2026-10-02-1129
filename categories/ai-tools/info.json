@@ -1,0 +1,20 @@
+{
+  "icon_url": "https://base44.app/api/apps/6a82cd9cb7ad28d36744964d/files/mp/public/6a82cd9cb7ad28d36744964d/5c394f1a8_1000058844.png",
+  "icon_source": "uploaded",
+  "is_visible": true,
+  "color": "#D4AF37",
+  "image_url": "https://media.base44.com/images/public/6a82cd9cb7ad28d36744964d/dda5bdefb_generated_image.png",
+  "description": "AI products and platforms with referral programs.",
+  "seo_title": null,
+  "image_source": "ai_generated",
+  "is_deleted": false,
+  "name": "AI Tools",
+  "seo_description": null,
+  "sort_order": 11,
+  "slug": "ai-tools",
+  "id": "6a82cff2521fc70c8a830995",
+  "created_date": "2026-08-17T09:10:10.906000",
+  "updated_date": "2026-08-19T15:14:54.924000",
+  "created_by_id": "6a82cd9cb7ad28d36744964e",
+  "is_sample": false
+}
