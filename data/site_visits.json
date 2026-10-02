@@ -1,0 +1,3953 @@
+[
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "session_id": "c97c4d5b-9b36-474e-8af4-23de5662abac",
+    "source": "category",
+    "category_id": "6a82cff2521fc70c8a83098c",
+    "id": "6abf9436bcad3318714940c7",
+    "created_date": "2026-10-02T11:23:34.559000",
+    "updated_date": "2026-10-02T11:23:34.559000",
+    "created_by_id": "service_54ca93b3-7833-4a7d-9a5c-d057f07443cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d66",
+    "site_name": "Robux Earny",
+    "session_id": "c97c4d5b-9b36-474e-8af4-23de5662abac",
+    "source": "category",
+    "category_id": "6a82cff2521fc70c8a830991",
+    "id": "6abf93e08e393cc7751f7e46",
+    "created_date": "2026-10-02T11:22:08.539000",
+    "updated_date": "2026-10-02T11:22:08.539000",
+    "created_by_id": "service_54ca93b3-7833-4a7d-9a5c-d057f07443cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "session_id": "c97c4d5b-9b36-474e-8af4-23de5662abac",
+    "source": "card",
+    "category_id": "6a82cff2521fc70c8a83098a",
+    "id": "6abf93c01abaf5dd60e89ae7",
+    "created_date": "2026-10-02T11:21:36.470000",
+    "updated_date": "2026-10-02T11:21:36.470000",
+    "created_by_id": "service_54ca93b3-7833-4a7d-9a5c-d057f07443cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6abec7469aa89b5a7ec8eac0",
+    "created_date": "2026-10-01T20:49:10.466000",
+    "updated_date": "2026-10-01T20:49:10.466000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6abec6e9c1e6518fbffb8d2b",
+    "created_date": "2026-10-01T20:47:37.190000",
+    "updated_date": "2026-10-01T20:47:37.190000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6abec6a0b48ab7c39afe5515",
+    "created_date": "2026-10-01T20:46:24.068000",
+    "updated_date": "2026-10-01T20:46:24.068000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6abec64311a56bc375025a5d",
+    "created_date": "2026-10-01T20:44:51.400000",
+    "updated_date": "2026-10-01T20:44:51.400000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6abec5b615279bb7f5757060",
+    "created_date": "2026-10-01T20:42:30.605000",
+    "updated_date": "2026-10-01T20:42:30.605000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6abec57d242087fa4c4f3d99",
+    "created_date": "2026-10-01T20:41:33.560000",
+    "updated_date": "2026-10-01T20:41:33.560000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6abec56a6a0adb9aa28b46f7",
+    "created_date": "2026-10-01T20:41:14.226000",
+    "updated_date": "2026-10-01T20:41:14.226000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6abec3c5ffb947c71b20d8fb",
+    "created_date": "2026-10-01T20:34:13.407000",
+    "updated_date": "2026-10-01T20:34:13.407000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6abec2ea4dba21d2cf7ca70c",
+    "created_date": "2026-10-01T20:30:34.213000",
+    "updated_date": "2026-10-01T20:30:34.213000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6abe8f8bd89ed1c7101a1e46",
+    "created_date": "2026-10-01T16:51:23.407000",
+    "updated_date": "2026-10-01T16:51:23.407000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6abe341aed4b1cbceb131b4c",
+    "created_date": "2026-10-01T10:21:14.779000",
+    "updated_date": "2026-10-01T10:21:14.779000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6abe2280467324fc0a84dda4",
+    "created_date": "2026-10-01T09:06:08.792000",
+    "updated_date": "2026-10-01T09:06:08.792000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6abe22610a827c22fd821e14",
+    "created_date": "2026-10-01T09:05:37.677000",
+    "updated_date": "2026-10-01T09:05:37.677000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5c",
+    "site_name": "DiceBlox",
+    "id": "6abe21f0380f84059f369029",
+    "created_date": "2026-10-01T09:03:44.666000",
+    "updated_date": "2026-10-01T09:03:44.666000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5d",
+    "site_name": "BloxFlip",
+    "id": "6abe21afc9bbd2ffd15ce84b",
+    "created_date": "2026-10-01T09:02:39.424000",
+    "updated_date": "2026-10-01T09:02:39.424000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d54",
+    "site_name": "GameHag",
+    "id": "6abe213cb6cf4cdefc2e685f",
+    "created_date": "2026-10-01T09:00:44.188000",
+    "updated_date": "2026-10-01T09:00:44.188000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6abe20bf00594cc2f25ad7fa",
+    "created_date": "2026-10-01T08:58:39.880000",
+    "updated_date": "2026-10-01T08:58:39.880000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6abe2049eff535dd8308f7db",
+    "created_date": "2026-10-01T08:56:41.723000",
+    "updated_date": "2026-10-01T08:56:41.723000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6abe203c07b685cd83e01a68",
+    "created_date": "2026-10-01T08:56:28.422000",
+    "updated_date": "2026-10-01T08:56:28.422000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6abe1fe991605c3ac923a324",
+    "created_date": "2026-10-01T08:55:05.307000",
+    "updated_date": "2026-10-01T08:55:05.307000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6abe1dc86bc1143b3cb3be30",
+    "created_date": "2026-10-01T08:46:00.805000",
+    "updated_date": "2026-10-01T08:46:00.805000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5f",
+    "site_name": "TaskBux",
+    "id": "6aba9884a0bc5a684b9d579c",
+    "created_date": "2026-09-28T16:40:36.008000",
+    "updated_date": "2026-09-28T16:40:36.008000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6ab99a354dd5a8e3e826ab0f",
+    "created_date": "2026-09-27T22:35:33.804000",
+    "updated_date": "2026-09-27T22:35:33.804000",
+    "created_by_id": "6ab999e9fe61462eea96eb58",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6ab96e2066e7e749a4be79a3",
+    "created_date": "2026-09-27T19:27:28.278000",
+    "updated_date": "2026-09-27T19:27:28.278000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6ab96df06b2fd76aad72a07e",
+    "created_date": "2026-09-27T19:26:40.956000",
+    "updated_date": "2026-09-27T19:26:40.956000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6ab96d87d98098d0a6e0f003",
+    "created_date": "2026-09-27T19:24:55.021000",
+    "updated_date": "2026-09-27T19:24:55.021000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab96ce7642ac1a31aa9b650",
+    "created_date": "2026-09-27T19:22:15.007000",
+    "updated_date": "2026-09-27T19:22:15.007000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a87720b3d32f7af80d17407",
+    "site_name": "Earnaldo",
+    "id": "6ab96b1f32d9b38e9f77fb91",
+    "created_date": "2026-09-27T19:14:39.211000",
+    "updated_date": "2026-09-27T19:14:39.211000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf5f9007fbd90197eedff",
+    "site_name": "Blox chase",
+    "id": "6ab96b02f7eaac58363c6d67",
+    "created_date": "2026-09-27T19:14:10.667000",
+    "updated_date": "2026-09-27T19:14:10.667000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6ab96aef5dda110275cb3b65",
+    "created_date": "2026-09-27T19:13:51.424000",
+    "updated_date": "2026-09-27T19:13:51.424000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6ab96ac752200c4091a77c6d",
+    "created_date": "2026-09-27T19:13:11.448000",
+    "updated_date": "2026-09-27T19:13:11.448000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6ab96a8d73c78e64fca51d1a",
+    "created_date": "2026-09-27T19:12:13.769000",
+    "updated_date": "2026-09-27T19:12:13.769000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6ab9698197f1beda1436494f",
+    "created_date": "2026-09-27T19:07:45.176000",
+    "updated_date": "2026-09-27T19:07:45.176000",
+    "created_by_id": "6ab96860b8c1aad61d7033a2",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab968ab3ce3c45190c436e6",
+    "created_date": "2026-09-27T19:04:11.901000",
+    "updated_date": "2026-09-27T19:04:11.901000",
+    "created_by_id": "6ab96860b8c1aad61d7033a2",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6ab93885eca2f41964a7ca51",
+    "created_date": "2026-09-27T15:38:45.712000",
+    "updated_date": "2026-09-27T15:38:45.712000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6ab93838a534cfa6dceeda48",
+    "created_date": "2026-09-27T15:37:28.748000",
+    "updated_date": "2026-09-27T15:37:28.748000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6ab937af8e79cdad9bcd6aa4",
+    "created_date": "2026-09-27T15:35:11.232000",
+    "updated_date": "2026-09-27T15:35:11.232000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6ab937943958eb3b4afdd6e2",
+    "created_date": "2026-09-27T15:34:44.736000",
+    "updated_date": "2026-09-27T15:34:44.736000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a9e0fe613ee593a723ef549",
+    "site_name": "skinape",
+    "id": "6ab91163b7ed990238a600f9",
+    "created_date": "2026-09-27T12:51:47.591000",
+    "updated_date": "2026-09-27T12:51:47.591000",
+    "created_by_id": "6ab910ecfe407bc2624c2441",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d68",
+    "site_name": "Medal.tv",
+    "id": "6ab9111cc1bac9b61050bbd7",
+    "created_date": "2026-09-27T12:50:36.112000",
+    "updated_date": "2026-09-27T12:50:36.112000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6ab91078d978c66b8a02ada7",
+    "created_date": "2026-09-27T12:47:52.808000",
+    "updated_date": "2026-09-27T12:47:52.808000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a9e0fe613ee593a723ef549",
+    "site_name": "skinape",
+    "id": "6ab9105cf410821b7e1eca18",
+    "created_date": "2026-09-27T12:47:24.114000",
+    "updated_date": "2026-09-27T12:47:24.114000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6ab90f0032a94091ba7648f2",
+    "created_date": "2026-09-27T12:41:36.958000",
+    "updated_date": "2026-09-27T12:41:36.958000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6ab90ef0d96f1ecd11aa6977",
+    "created_date": "2026-09-27T12:41:20.669000",
+    "updated_date": "2026-09-27T12:41:20.669000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6ab90ee55bb0547a3f42fd4d",
+    "created_date": "2026-09-27T12:41:09.498000",
+    "updated_date": "2026-09-27T12:41:09.498000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab90ede7f179bb27f08ac1b",
+    "created_date": "2026-09-27T12:41:02.417000",
+    "updated_date": "2026-09-27T12:41:02.417000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6ab90ece3ca211ad3e6378c2",
+    "created_date": "2026-09-27T12:40:46.063000",
+    "updated_date": "2026-09-27T12:40:46.063000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6ab90e9c332bd0ecda0fe361",
+    "created_date": "2026-09-27T12:39:56.687000",
+    "updated_date": "2026-09-27T12:39:56.687000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6ab90e96be122c806a022704",
+    "created_date": "2026-09-27T12:39:50.569000",
+    "updated_date": "2026-09-27T12:39:50.569000",
+    "created_by_id": "6ab90dbd54d472708484bec5",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab8dfd675164aa99211bbed",
+    "created_date": "2026-09-27T09:20:22.276000",
+    "updated_date": "2026-09-27T09:20:22.276000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aac278027174b08ff19513a",
+    "site_name": "Gain.gg",
+    "id": "6ab8dfc64c25e94acd2fdeec",
+    "created_date": "2026-09-27T09:20:06.160000",
+    "updated_date": "2026-09-27T09:20:06.160000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6ab883d019057654d926fa49",
+    "created_date": "2026-09-27T02:47:44.491000",
+    "updated_date": "2026-09-27T02:47:44.491000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d41",
+    "site_name": "SuperPay.me",
+    "id": "6ab8000f9c7b8584ddc054a7",
+    "created_date": "2026-09-26T17:25:35.350000",
+    "updated_date": "2026-09-26T17:25:35.350000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d41",
+    "site_name": "SuperPay.me",
+    "id": "6ab80006d7c9208fe2ff1b4e",
+    "created_date": "2026-09-26T17:25:26.038000",
+    "updated_date": "2026-09-26T17:25:26.038000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6ab7fca278a99932d15ffd8c",
+    "created_date": "2026-09-26T17:10:58.050000",
+    "updated_date": "2026-09-26T17:10:58.050000",
+    "created_by_id": "6ab7f7f2c6d89e9f0c08950f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6ab7f85c389d76ec818e1467",
+    "created_date": "2026-09-26T16:52:44.176000",
+    "updated_date": "2026-09-26T16:52:44.176000",
+    "created_by_id": "6ab7f7f2c6d89e9f0c08950f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6ab7d583e93e1f06a24d4d06",
+    "created_date": "2026-09-26T14:24:03.637000",
+    "updated_date": "2026-09-26T14:24:03.637000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aac278027174b08ff19513a",
+    "site_name": "Gain.gg",
+    "id": "6ab7cdf2c5db41be21bb7c75",
+    "created_date": "2026-09-26T13:51:46.736000",
+    "updated_date": "2026-09-26T13:51:46.736000",
+    "created_by_id": "6ab7cdada2f5d02f6b047767",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab7cde5974314dc09f53e02",
+    "created_date": "2026-09-26T13:51:33.517000",
+    "updated_date": "2026-09-26T13:51:33.517000",
+    "created_by_id": "6ab7cdada2f5d02f6b047767",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3f",
+    "site_name": "Zoombucks",
+    "id": "6ab7cdda3725a614bcc349bd",
+    "created_date": "2026-09-26T13:51:22.398000",
+    "updated_date": "2026-09-26T13:51:22.398000",
+    "created_by_id": "6ab7cdada2f5d02f6b047767",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6ab7bc2c9de4cb2fbdd4b531",
+    "created_date": "2026-09-26T12:35:56.902000",
+    "updated_date": "2026-09-26T12:35:56.902000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6ab7bc0093b16a90fa2705bd",
+    "created_date": "2026-09-26T12:35:12.886000",
+    "updated_date": "2026-09-26T12:35:12.886000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6ab7ba2705baa0983803fa2b",
+    "created_date": "2026-09-26T12:27:19.088000",
+    "updated_date": "2026-09-26T12:27:19.088000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf5f9007fbd90197eedff",
+    "site_name": "Blox chase",
+    "id": "6ab7b92ae08602a94743b7ca",
+    "created_date": "2026-09-26T12:23:06.615000",
+    "updated_date": "2026-09-26T12:23:06.615000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6ab7b9088350577f3fbebee5",
+    "created_date": "2026-09-26T12:22:32.833000",
+    "updated_date": "2026-09-26T12:22:32.833000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6ab7b8d59e649ea6b3d10a71",
+    "created_date": "2026-09-26T12:21:41.709000",
+    "updated_date": "2026-09-26T12:21:41.709000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6ab7b89b94e8fd118bd8b2bc",
+    "created_date": "2026-09-26T12:20:43.069000",
+    "updated_date": "2026-09-26T12:20:43.069000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a87720b3d32f7af80d17407",
+    "site_name": "Earnaldo",
+    "id": "6ab7b77d99005df090df18e3",
+    "created_date": "2026-09-26T12:15:57.141000",
+    "updated_date": "2026-09-26T12:15:57.141000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab7a21bbcac462503b61642",
+    "created_date": "2026-09-26T10:44:43.609000",
+    "updated_date": "2026-09-26T10:44:43.609000",
+    "created_by_id": "6ab7a1febc9e26cbc80b5e60",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6ab7953f813d90aa2ea6fae1",
+    "created_date": "2026-09-26T09:49:51.126000",
+    "updated_date": "2026-09-26T09:49:51.126000",
+    "created_by_id": "6ab794e4dda64aa6db4bede6",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6ab726fd6deadb4e76a2e09d",
+    "created_date": "2026-09-26T01:59:25.299000",
+    "updated_date": "2026-09-26T01:59:25.299000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6ab726fd5c0df00442691c34",
+    "created_date": "2026-09-26T01:59:25.150000",
+    "updated_date": "2026-09-26T01:59:25.150000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6ab726dddb28d29b90848ff5",
+    "created_date": "2026-09-26T01:58:53.480000",
+    "updated_date": "2026-09-26T01:58:53.480000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b5d6a73ed2dbb80ac0bed",
+    "site_name": "Lootx",
+    "id": "6ab726b9a2da48d69dd90c8a",
+    "created_date": "2026-09-26T01:58:17.106000",
+    "updated_date": "2026-09-26T01:58:17.106000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d64",
+    "site_name": "Idle-Empire Robux Cards",
+    "id": "6ab725b6847df8f8ef957272",
+    "created_date": "2026-09-26T01:53:58.408000",
+    "updated_date": "2026-09-26T01:53:58.408000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf5f9007fbd90197eedff",
+    "site_name": "Blox chase",
+    "id": "6ab725ab2ee83ea5cd86df63",
+    "created_date": "2026-09-26T01:53:47.698000",
+    "updated_date": "2026-09-26T01:53:47.698000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf5f9007fbd90197eedff",
+    "site_name": "Blox chase",
+    "id": "6ab725aa1ad2bc746223dccd",
+    "created_date": "2026-09-26T01:53:46.050000",
+    "updated_date": "2026-09-26T01:53:46.050000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6ab7258861c7d806d1d05921",
+    "created_date": "2026-09-26T01:53:12.653000",
+    "updated_date": "2026-09-26T01:53:12.653000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6ab72586ee8551b048a5ac4a",
+    "created_date": "2026-09-26T01:53:10.293000",
+    "updated_date": "2026-09-26T01:53:10.293000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6ab72584f9dac426ce26481a",
+    "created_date": "2026-09-26T01:53:08.318000",
+    "updated_date": "2026-09-26T01:53:08.318000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6ab7258333d45ce136d92afd",
+    "created_date": "2026-09-26T01:53:07.115000",
+    "updated_date": "2026-09-26T01:53:07.115000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6ab7257fdef998eab96399d7",
+    "created_date": "2026-09-26T01:53:03.173000",
+    "updated_date": "2026-09-26T01:53:03.173000",
+    "created_by_id": "6ab72542bcb24dedb30d93bb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d64",
+    "site_name": "Idle-Empire Robux Cards",
+    "id": "6ab6f9df51ee1af296d5019c",
+    "created_date": "2026-09-25T22:46:55.486000",
+    "updated_date": "2026-09-25T22:46:55.486000",
+    "created_by_id": "6ab6f9ad52846d84758acac2",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b5d6a73ed2dbb80ac0bed",
+    "site_name": "Lootx",
+    "id": "6ab6f9d4d6bf476d11467248",
+    "created_date": "2026-09-25T22:46:44.729000",
+    "updated_date": "2026-09-25T22:46:44.729000",
+    "created_by_id": "6ab6f9ad52846d84758acac2",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a99f0706f65f79c18afcbb2",
+    "site_name": "Lootbusters",
+    "id": "6ab5c65e43322b13a02e155f",
+    "created_date": "2026-09-25T00:54:54.587000",
+    "updated_date": "2026-09-25T00:54:54.587000",
+    "created_by_id": "6ab5c5f0600239e4023f7f85",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf5f9007fbd90197eedff",
+    "site_name": "Blox chase",
+    "id": "6ab5c65bf5e83081efc5b3b7",
+    "created_date": "2026-09-25T00:54:51.897000",
+    "updated_date": "2026-09-25T00:54:51.897000",
+    "created_by_id": "6ab5c5f0600239e4023f7f85",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6ab5c658cf8a5e50931ff346",
+    "created_date": "2026-09-25T00:54:48.700000",
+    "updated_date": "2026-09-25T00:54:48.700000",
+    "created_by_id": "6ab5c5f0600239e4023f7f85",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6ab5c64ed383aae3110e594d",
+    "created_date": "2026-09-25T00:54:38.221000",
+    "updated_date": "2026-09-25T00:54:38.221000",
+    "created_by_id": "6ab5c5f0600239e4023f7f85",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6ab5c64bc608657d7a30c8dd",
+    "created_date": "2026-09-25T00:54:35.360000",
+    "updated_date": "2026-09-25T00:54:35.360000",
+    "created_by_id": "6ab5c5f0600239e4023f7f85",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6ab54d76407506a8a3187e0a",
+    "created_date": "2026-09-24T16:19:02.376000",
+    "updated_date": "2026-09-24T16:19:02.376000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6ab522ee2a648606070b470f",
+    "created_date": "2026-09-24T13:17:34.608000",
+    "updated_date": "2026-09-24T13:17:34.608000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6ab5220cd970c9852885733e",
+    "created_date": "2026-09-24T13:13:48.770000",
+    "updated_date": "2026-09-24T13:13:48.770000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6ab521eed1b7819f0a97eb25",
+    "created_date": "2026-09-24T13:13:18.964000",
+    "updated_date": "2026-09-24T13:13:18.964000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab520f0c3437795f6ada4ac",
+    "created_date": "2026-09-24T13:09:04.342000",
+    "updated_date": "2026-09-24T13:09:04.342000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6ab51c195b130dd3f92fc0c0",
+    "created_date": "2026-09-24T12:48:25.543000",
+    "updated_date": "2026-09-24T12:48:25.543000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6ab518b1ce8e9ff30eb4d253",
+    "created_date": "2026-09-24T12:33:53.457000",
+    "updated_date": "2026-09-24T12:33:53.457000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab518438e575bfcc2e105d7",
+    "created_date": "2026-09-24T12:32:03.006000",
+    "updated_date": "2026-09-24T12:32:03.006000",
+    "created_by_id": "6ab5180f1c48028f0e932575",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6ab492eabb6698c1c1a12146",
+    "created_date": "2026-09-24T03:03:06.130000",
+    "updated_date": "2026-09-24T03:03:06.130000",
+    "created_by_id": "6ab492b0b52f77bd674204c6",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d46",
+    "site_name": "PollPay",
+    "id": "6ab43f42b49b00413f8f786d",
+    "created_date": "2026-09-23T21:06:10.387000",
+    "updated_date": "2026-09-23T21:06:10.387000",
+    "created_by_id": "6ab43f223d3d4e6c268dd743",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b5d6a73ed2dbb80ac0bed",
+    "site_name": "Lootx",
+    "id": "6ab42f77b1096beccb9af745",
+    "created_date": "2026-09-23T19:58:47.654000",
+    "updated_date": "2026-09-23T19:58:47.654000",
+    "created_by_id": "6ab42e0d5958e4fdd2e478a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf5f9007fbd90197eedff",
+    "site_name": "Blox chase",
+    "id": "6ab42f68b94b9e4e9e997e5a",
+    "created_date": "2026-09-23T19:58:32.999000",
+    "updated_date": "2026-09-23T19:58:32.999000",
+    "created_by_id": "6ab42e0d5958e4fdd2e478a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6ab42f5523829261bacb1b17",
+    "created_date": "2026-09-23T19:58:13.497000",
+    "updated_date": "2026-09-23T19:58:13.497000",
+    "created_by_id": "6ab42e0d5958e4fdd2e478a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6ab42ed1f8579bd7efb29cf0",
+    "created_date": "2026-09-23T19:56:01.408000",
+    "updated_date": "2026-09-23T19:56:01.408000",
+    "created_by_id": "6ab42e0d5958e4fdd2e478a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6ab42eba212ef162edf3881e",
+    "created_date": "2026-09-23T19:55:38.371000",
+    "updated_date": "2026-09-23T19:55:38.371000",
+    "created_by_id": "6ab42e0d5958e4fdd2e478a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d46",
+    "site_name": "PollPay",
+    "id": "6ab42eaf1f5f4c432fe448dc",
+    "created_date": "2026-09-23T19:55:27.227000",
+    "updated_date": "2026-09-23T19:55:27.227000",
+    "created_by_id": "6ab42e0d5958e4fdd2e478a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6ab42e95823790705f551744",
+    "created_date": "2026-09-23T19:55:01.487000",
+    "updated_date": "2026-09-23T19:55:01.487000",
+    "created_by_id": "6ab42e0d5958e4fdd2e478a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6ab42e6ae06cc87b3be209e5",
+    "created_date": "2026-09-23T19:54:18.467000",
+    "updated_date": "2026-09-23T19:54:18.467000",
+    "created_by_id": "6ab42e0d5958e4fdd2e478a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab42e593a4deffeff1c4802",
+    "created_date": "2026-09-23T19:54:01.933000",
+    "updated_date": "2026-09-23T19:54:01.933000",
+    "created_by_id": "6ab42e0d5958e4fdd2e478a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6ab2d529a1aaf055751c1780",
+    "created_date": "2026-09-22T19:21:13.262000",
+    "updated_date": "2026-09-22T19:21:13.262000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d67",
+    "site_name": "SWC App",
+    "id": "6ab28060187ed7c18b47e861",
+    "created_date": "2026-09-22T13:19:28.608000",
+    "updated_date": "2026-09-22T13:19:28.608000",
+    "created_by_id": "6ab27cce6c878d828f801f16",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf95d69477bdb320c03ee",
+    "site_name": "Survey.gg",
+    "id": "6ab28010f527e73a3ee5d55d",
+    "created_date": "2026-09-22T13:18:08.144000",
+    "updated_date": "2026-09-22T13:18:08.144000",
+    "created_by_id": "6ab27cce6c878d828f801f16",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6ab27ee3bad63af665ca5c6c",
+    "created_date": "2026-09-22T13:13:07.734000",
+    "updated_date": "2026-09-22T13:13:07.734000",
+    "created_by_id": "6ab27cce6c878d828f801f16",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d58",
+    "site_name": "RBXStacks",
+    "id": "6ab27ea56bff831a7b6861b4",
+    "created_date": "2026-09-22T13:12:05.527000",
+    "updated_date": "2026-09-22T13:12:05.527000",
+    "created_by_id": "6ab27cce6c878d828f801f16",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6ab27d11334e80f26e833e04",
+    "created_date": "2026-09-22T13:05:21.501000",
+    "updated_date": "2026-09-22T13:05:21.501000",
+    "created_by_id": "6ab27cce6c878d828f801f16",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6ab20cebd2e4a1f146e036a3",
+    "created_date": "2026-09-22T05:06:51.333000",
+    "updated_date": "2026-09-22T05:06:51.333000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6ab19072d36b2aaa542ba8c1",
+    "created_date": "2026-09-21T20:15:46.133000",
+    "updated_date": "2026-09-21T20:15:46.133000",
+    "created_by_id": "6ab18f78efe0ac5b2fc602ef",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6ab1905c145938a1c7bf54c8",
+    "created_date": "2026-09-21T20:15:24.604000",
+    "updated_date": "2026-09-21T20:15:24.604000",
+    "created_by_id": "6ab18f78efe0ac5b2fc602ef",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6ab18fb0f6a88b7fd40bd1b5",
+    "created_date": "2026-09-21T20:12:32.754000",
+    "updated_date": "2026-09-21T20:12:32.754000",
+    "created_by_id": "6ab18f78efe0ac5b2fc602ef",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6ab0e14319ba37d18a88157e",
+    "created_date": "2026-09-21T07:48:19.877000",
+    "updated_date": "2026-09-21T07:48:19.877000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf5f9007fbd90197eedff",
+    "site_name": "Blox chase",
+    "id": "6ab005eb95d083b1f9ed4cbf",
+    "created_date": "2026-09-20T16:12:27.189000",
+    "updated_date": "2026-09-20T16:12:27.189000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf5f9007fbd90197eedff",
+    "site_name": "Blox chase",
+    "id": "6ab003e7ff39e35dcc7768cf",
+    "created_date": "2026-09-20T16:03:51.524000",
+    "updated_date": "2026-09-20T16:03:51.524000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3f",
+    "site_name": "Zoombucks",
+    "id": "6aaffc92f918d352bb4e3c81",
+    "created_date": "2026-09-20T15:32:34.370000",
+    "updated_date": "2026-09-20T15:32:34.370000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3f",
+    "site_name": "Zoombucks",
+    "id": "6aaffc72073f558bd7f1f5ee",
+    "created_date": "2026-09-20T15:32:02.164000",
+    "updated_date": "2026-09-20T15:32:02.164000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3f",
+    "site_name": "Zoombucks",
+    "id": "6aaffbf3f9f45919b1a8d791",
+    "created_date": "2026-09-20T15:29:55.958000",
+    "updated_date": "2026-09-20T15:29:55.958000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aac278027174b08ff19513a",
+    "site_name": "Gain.gg",
+    "id": "6aaffb469ab6a7f7df122464",
+    "created_date": "2026-09-20T15:27:02.867000",
+    "updated_date": "2026-09-20T15:27:02.867000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6aafa569846b806f2756ac0d",
+    "created_date": "2026-09-20T09:20:41.771000",
+    "updated_date": "2026-09-20T09:20:41.771000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6aafa52bfdcf16c003c63a65",
+    "created_date": "2026-09-20T09:19:39.358000",
+    "updated_date": "2026-09-20T09:19:39.358000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6aaf78dfbdb6d03a02782996",
+    "created_date": "2026-09-20T06:10:39.011000",
+    "updated_date": "2026-09-20T06:10:39.011000",
+    "created_by_id": "6aaf788b46aae1fef9361a82",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4a",
+    "site_name": "RBXPlus",
+    "id": "6aaf6a7281d164e8ef07a262",
+    "created_date": "2026-09-20T05:09:06.626000",
+    "updated_date": "2026-09-20T05:09:06.626000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4d",
+    "site_name": "RBXBoost",
+    "id": "6aaf6a4f8e482fa2afd3409a",
+    "created_date": "2026-09-20T05:08:31.920000",
+    "updated_date": "2026-09-20T05:08:31.920000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aac278027174b08ff19513a",
+    "site_name": "Gain.gg",
+    "id": "6aaf51e8f5f3bc771a8b238e",
+    "created_date": "2026-09-20T03:24:24.825000",
+    "updated_date": "2026-09-20T03:24:24.825000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aabf5f9007fbd90197eedff",
+    "site_name": "Blox chase",
+    "id": "6aaf515f5888ddd90a4f9ae8",
+    "created_date": "2026-09-20T03:22:07.546000",
+    "updated_date": "2026-09-20T03:22:07.546000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6aaf514df18dd52b4ec7cdfb",
+    "created_date": "2026-09-20T03:21:49.762000",
+    "updated_date": "2026-09-20T03:21:49.762000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6aaf514a790c3daa7cabb925",
+    "created_date": "2026-09-20T03:21:46.509000",
+    "updated_date": "2026-09-20T03:21:46.509000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aac2413a1f3df165ad29f99",
+    "site_name": "Rbxbit",
+    "id": "6aaf514083a3f91687fbb392",
+    "created_date": "2026-09-20T03:21:36.960000",
+    "updated_date": "2026-09-20T03:21:36.960000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6aaf1f7e1d6e68b7a59118e5",
+    "created_date": "2026-09-19T23:49:18.756000",
+    "updated_date": "2026-09-19T23:49:18.756000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6aaec4720428af4a74c69803",
+    "created_date": "2026-09-19T17:20:50.374000",
+    "updated_date": "2026-09-19T17:20:50.374000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d58",
+    "site_name": "RBXStacks",
+    "id": "6aae4daad7c0eb704a4888d0",
+    "created_date": "2026-09-19T08:54:02.499000",
+    "updated_date": "2026-09-19T08:54:02.499000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d58",
+    "site_name": "RBXStacks",
+    "id": "6aae4d95e1f2aa08b3e1d66f",
+    "created_date": "2026-09-19T08:53:41.500000",
+    "updated_date": "2026-09-19T08:53:41.500000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aae4cdd1733bf795cb55f8c",
+    "created_date": "2026-09-19T08:50:37.144000",
+    "updated_date": "2026-09-19T08:50:37.144000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6aae4cc1a56bd2a548461791",
+    "created_date": "2026-09-19T08:50:09.572000",
+    "updated_date": "2026-09-19T08:50:09.572000",
+    "created_by_id": "6aae4c98e0b8a8e21173195b",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6aae4cc164904fc8bd71a0c2",
+    "created_date": "2026-09-19T08:50:09.480000",
+    "updated_date": "2026-09-19T08:50:09.480000",
+    "created_by_id": "6aae4c98e0b8a8e21173195b",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aae4c79ece1ac3eaf57dca0",
+    "created_date": "2026-09-19T08:48:57.522000",
+    "updated_date": "2026-09-19T08:48:57.522000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6aac278027174b08ff19513a",
+    "site_name": "Gain.gg",
+    "id": "6aae4c0bc3b70a3416574524",
+    "created_date": "2026-09-19T08:47:07.245000",
+    "updated_date": "2026-09-19T08:47:07.245000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6aae4b4cf90aa7b1272494d5",
+    "created_date": "2026-09-19T08:43:56.319000",
+    "updated_date": "2026-09-19T08:43:56.319000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6aae4b3586ac36d6ea0dc687",
+    "created_date": "2026-09-19T08:43:33.321000",
+    "updated_date": "2026-09-19T08:43:33.321000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4c",
+    "site_name": "SweetRBX",
+    "id": "6aae4aeebc3d0330c7746455",
+    "created_date": "2026-09-19T08:42:22.827000",
+    "updated_date": "2026-09-19T08:42:22.827000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aae4ae8a46d8f2bf01d0db7",
+    "created_date": "2026-09-19T08:42:16.703000",
+    "updated_date": "2026-09-19T08:42:16.703000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aae4ae8fcdcbca7ad258389",
+    "created_date": "2026-09-19T08:42:16.633000",
+    "updated_date": "2026-09-19T08:42:16.633000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6aae4a7b133ed8cf16c54115",
+    "created_date": "2026-09-19T08:40:27.005000",
+    "updated_date": "2026-09-19T08:40:27.005000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aae494c147f894f4785dd84",
+    "created_date": "2026-09-19T08:35:24.478000",
+    "updated_date": "2026-09-19T08:35:24.478000",
+    "created_by_id": "6aae4915e0924f732b15f898",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6aae42095b2f7e7af953c1e3",
+    "created_date": "2026-09-19T08:04:25.400000",
+    "updated_date": "2026-09-19T08:04:25.400000",
+    "created_by_id": "6aae41958c381d5c8095ab28",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d45",
+    "site_name": "Swagbucks",
+    "id": "6aae41d1fe75a474a61b250c",
+    "created_date": "2026-09-19T08:03:29.139000",
+    "updated_date": "2026-09-19T08:03:29.139000",
+    "created_by_id": "6aae41958c381d5c8095ab28",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6aae3397e3b88d1a2e93d8b8",
+    "created_date": "2026-09-19T07:02:47.082000",
+    "updated_date": "2026-09-19T07:02:47.082000",
+    "created_by_id": "6aae337527101fa53fdf4320",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4d",
+    "site_name": "RBXBoost",
+    "id": "6aab3e469f1046c69056c244",
+    "created_date": "2026-09-17T01:11:34.714000",
+    "updated_date": "2026-09-17T01:11:34.714000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4c",
+    "site_name": "SweetRBX",
+    "id": "6aab3c8905170939968f09e7",
+    "created_date": "2026-09-17T01:04:09.141000",
+    "updated_date": "2026-09-17T01:04:09.141000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4c",
+    "site_name": "SweetRBX",
+    "id": "6aab3c765a2526846f4fde8a",
+    "created_date": "2026-09-17T01:03:50.546000",
+    "updated_date": "2026-09-17T01:03:50.546000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6aab3c4697e331241d91aa2e",
+    "created_date": "2026-09-17T01:03:02.003000",
+    "updated_date": "2026-09-17T01:03:02.003000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6aab3c197f3cce63776eb1c3",
+    "created_date": "2026-09-17T01:02:17.044000",
+    "updated_date": "2026-09-17T01:02:17.044000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6aab3bd489b00a2f71a9bcff",
+    "created_date": "2026-09-17T01:01:08.375000",
+    "updated_date": "2026-09-17T01:01:08.375000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aab3baba4967b3790b22116",
+    "created_date": "2026-09-17T01:00:27.136000",
+    "updated_date": "2026-09-17T01:00:27.136000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6aab3b8baadbf0eaee291ba6",
+    "created_date": "2026-09-17T00:59:55.517000",
+    "updated_date": "2026-09-17T00:59:55.517000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aab3b77736d31b7ae29a7fc",
+    "created_date": "2026-09-17T00:59:35.494000",
+    "updated_date": "2026-09-17T00:59:35.494000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6aaa37221c0198262860f464",
+    "created_date": "2026-09-16T06:28:50.106000",
+    "updated_date": "2026-09-16T06:28:50.106000",
+    "created_by_id": "6aaa3706c8e447e5573963c4",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6aa9b2a34377bc82d3687ed6",
+    "created_date": "2026-09-15T21:03:31.536000",
+    "updated_date": "2026-09-15T21:03:31.536000",
+    "created_by_id": "6aa9b256679c414dc9f0bbb6",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6aa997b06ebbe897bedafaae",
+    "created_date": "2026-09-15T19:08:32.314000",
+    "updated_date": "2026-09-15T19:08:32.314000",
+    "created_by_id": "6aa9972a8447f4b901860b25",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6aa9977f032c547d2e8ebd38",
+    "created_date": "2026-09-15T19:07:43.999000",
+    "updated_date": "2026-09-15T19:07:43.999000",
+    "created_by_id": "6aa9972a8447f4b901860b25",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aa968ed31ee9508d422863d",
+    "created_date": "2026-09-15T15:49:01.170000",
+    "updated_date": "2026-09-15T15:49:01.170000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6aa968901c109915e60cb857",
+    "created_date": "2026-09-15T15:47:28.507000",
+    "updated_date": "2026-09-15T15:47:28.507000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a9e0fe613ee593a723ef549",
+    "site_name": "skinape",
+    "id": "6aa664041cc25ec354b09903",
+    "created_date": "2026-09-13T08:51:16.733000",
+    "updated_date": "2026-09-13T08:51:16.733000",
+    "created_by_id": "6aa6639b330be21cfcbbdc82",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d64",
+    "site_name": "Idle-Empire Robux Cards",
+    "id": "6aa663fd8b2e0321b115463d",
+    "created_date": "2026-09-13T08:51:09.352000",
+    "updated_date": "2026-09-13T08:51:09.352000",
+    "created_by_id": "6aa6639b330be21cfcbbdc82",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6aa663d8e2f40bbca5f47796",
+    "created_date": "2026-09-13T08:50:32.675000",
+    "updated_date": "2026-09-13T08:50:32.675000",
+    "created_by_id": "6aa6639b330be21cfcbbdc82",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa663c2b83baa89c8b9d78a",
+    "created_date": "2026-09-13T08:50:10.580000",
+    "updated_date": "2026-09-13T08:50:10.580000",
+    "created_by_id": "6aa6639b330be21cfcbbdc82",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d59",
+    "site_name": "GemsLoot",
+    "id": "6aa65f3e8cd2c11d9e40582f",
+    "created_date": "2026-09-13T08:30:54.846000",
+    "updated_date": "2026-09-13T08:30:54.846000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6aa65d291400235affe6016a",
+    "created_date": "2026-09-13T08:22:01.652000",
+    "updated_date": "2026-09-13T08:22:01.652000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6aa65ade25ec08f3d5f85834",
+    "created_date": "2026-09-13T08:12:14.687000",
+    "updated_date": "2026-09-13T08:12:14.687000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6aa65a8676257d548a00216b",
+    "created_date": "2026-09-13T08:10:46.923000",
+    "updated_date": "2026-09-13T08:10:46.923000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aa65a412d5ee4561cd2d32f",
+    "created_date": "2026-09-13T08:09:37.949000",
+    "updated_date": "2026-09-13T08:09:37.949000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa65a24304d8867ef8c9846",
+    "created_date": "2026-09-13T08:09:08.535000",
+    "updated_date": "2026-09-13T08:09:08.535000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6aa65a03bf4951bc757a5789",
+    "created_date": "2026-09-13T08:08:35.122000",
+    "updated_date": "2026-09-13T08:08:35.122000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6aa659fad41377460db9cd86",
+    "created_date": "2026-09-13T08:08:26.484000",
+    "updated_date": "2026-09-13T08:08:26.484000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6aa6586e1ab578ddf50e2a28",
+    "created_date": "2026-09-13T08:01:50.770000",
+    "updated_date": "2026-09-13T08:01:50.770000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6aa62c3bd7f6e74c89e1d781",
+    "created_date": "2026-09-13T04:53:15.067000",
+    "updated_date": "2026-09-13T04:53:15.067000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aa62aed3648362494443da1",
+    "created_date": "2026-09-13T04:47:41.065000",
+    "updated_date": "2026-09-13T04:47:41.065000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6aa625493e5fa0cd5a596604",
+    "created_date": "2026-09-13T04:23:37.023000",
+    "updated_date": "2026-09-13T04:23:37.023000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6aa61d8975615cc7609344e0",
+    "created_date": "2026-09-13T03:50:33.375000",
+    "updated_date": "2026-09-13T03:50:33.375000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa61d60de13854f881f2b38",
+    "created_date": "2026-09-13T03:49:52.456000",
+    "updated_date": "2026-09-13T03:49:52.456000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa5fb1112265f6871db578a",
+    "created_date": "2026-09-13T01:23:29.777000",
+    "updated_date": "2026-09-13T01:23:29.777000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3f",
+    "site_name": "Zoombucks",
+    "id": "6aa5fb05c01499f45f43bd71",
+    "created_date": "2026-09-13T01:23:17.353000",
+    "updated_date": "2026-09-13T01:23:17.353000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6aa5faddb1095dbfbd978e49",
+    "created_date": "2026-09-13T01:22:37.506000",
+    "updated_date": "2026-09-13T01:22:37.506000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6aa5f8572a5e520841581f99",
+    "created_date": "2026-09-13T01:11:51.583000",
+    "updated_date": "2026-09-13T01:11:51.583000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b51873e92af59fd652243",
+    "site_name": "Rbxnow",
+    "id": "6aa5f55a514c51eb244678e6",
+    "created_date": "2026-09-13T00:59:06.788000",
+    "updated_date": "2026-09-13T00:59:06.788000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa5f4438a540f9740021ed4",
+    "created_date": "2026-09-13T00:54:27.035000",
+    "updated_date": "2026-09-13T00:54:27.035000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6aa58ff7ca07d626106d8015",
+    "created_date": "2026-09-12T17:46:31.457000",
+    "updated_date": "2026-09-12T17:46:31.457000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa588a1d6522554d4287460",
+    "created_date": "2026-09-12T17:15:13.737000",
+    "updated_date": "2026-09-12T17:15:13.737000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6aa5888dc7e6fe54dde5b3ea",
+    "created_date": "2026-09-12T17:14:53.236000",
+    "updated_date": "2026-09-12T17:14:53.236000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa5155fbcf773e996d3fb8a",
+    "created_date": "2026-09-12T09:03:27.075000",
+    "updated_date": "2026-09-12T09:03:27.075000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6aa506e08dfa788419fb21fe",
+    "created_date": "2026-09-12T08:01:36.149000",
+    "updated_date": "2026-09-12T08:01:36.149000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a99ede0cf776f96c9587332",
+    "site_name": "CubePoints",
+    "id": "6aa38434bc4757084b76c224",
+    "created_date": "2026-09-11T04:31:48.966000",
+    "updated_date": "2026-09-11T04:31:48.966000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a99f0706f65f79c18afcbb2",
+    "site_name": "Lootbusters",
+    "id": "6aa383cf0387850cfff74613",
+    "created_date": "2026-09-11T04:30:07.762000",
+    "updated_date": "2026-09-11T04:30:07.762000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b5d6a73ed2dbb80ac0bed",
+    "site_name": "Lootx",
+    "id": "6aa383635060a5e9c40b002c",
+    "created_date": "2026-09-11T04:28:19.155000",
+    "updated_date": "2026-09-11T04:28:19.155000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a87720b3d32f7af80d17407",
+    "site_name": "Earnaldo",
+    "id": "6aa3833de100915f9144f3a4",
+    "created_date": "2026-09-11T04:27:41.187000",
+    "updated_date": "2026-09-11T04:27:41.187000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d58",
+    "site_name": "RBXStacks",
+    "id": "6aa382ff784c59b44f2e99e1",
+    "created_date": "2026-09-11T04:26:39.428000",
+    "updated_date": "2026-09-11T04:26:39.428000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d53",
+    "site_name": "CPAXPro",
+    "id": "6aa382a0970d538c69fd4d9a",
+    "created_date": "2026-09-11T04:25:04.454000",
+    "updated_date": "2026-09-11T04:25:04.454000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d53",
+    "site_name": "CPAXPro",
+    "id": "6aa3828bd65e8c00de417620",
+    "created_date": "2026-09-11T04:24:43.717000",
+    "updated_date": "2026-09-11T04:24:43.717000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6aa3826c7727b66ca431592d",
+    "created_date": "2026-09-11T04:24:12.156000",
+    "updated_date": "2026-09-11T04:24:12.156000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6aa382313467f60cb8ab8ceb",
+    "created_date": "2026-09-11T04:23:13.898000",
+    "updated_date": "2026-09-11T04:23:13.898000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d60",
+    "site_name": "RBXDemon",
+    "id": "6aa381c00537240bde4db55b",
+    "created_date": "2026-09-11T04:21:20.317000",
+    "updated_date": "2026-09-11T04:21:20.317000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d60",
+    "site_name": "RBXDemon",
+    "id": "6aa3818b6a1648b1c3c6df64",
+    "created_date": "2026-09-11T04:20:27.547000",
+    "updated_date": "2026-09-11T04:20:27.547000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d60",
+    "site_name": "RBXDemon",
+    "id": "6aa3818232a86244cc073515",
+    "created_date": "2026-09-11T04:20:18.690000",
+    "updated_date": "2026-09-11T04:20:18.690000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6aa3813e3c2d90ab113b7789",
+    "created_date": "2026-09-11T04:19:10.063000",
+    "updated_date": "2026-09-11T04:19:10.063000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6aa2fd037a66f07add53be2c",
+    "created_date": "2026-09-10T18:54:59.555000",
+    "updated_date": "2026-09-10T18:54:59.555000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a9cd6ce44f6a954e41bef98",
+    "site_name": "buxyapp",
+    "id": "6aa2f5cbd42fcc2901b057be",
+    "created_date": "2026-09-10T18:24:11.376000",
+    "updated_date": "2026-09-10T18:24:11.376000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a9cd6ce44f6a954e41bef98",
+    "site_name": "buxyapp",
+    "id": "6aa2f54fb8b60a6090bc5dd5",
+    "created_date": "2026-09-10T18:22:07.450000",
+    "updated_date": "2026-09-10T18:22:07.450000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b5610b901c78bbafe75f9",
+    "site_name": "Rbx best",
+    "id": "6aa2f5070ea3cffd7e38f5d6",
+    "created_date": "2026-09-10T18:20:55.086000",
+    "updated_date": "2026-09-10T18:20:55.086000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b51873e92af59fd652243",
+    "site_name": "Rbxnow",
+    "id": "6aa2f3abf2e18d3beb154522",
+    "created_date": "2026-09-10T18:15:07.066000",
+    "updated_date": "2026-09-10T18:15:07.066000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b486ce5b5006b38bb191e",
+    "site_name": "Ezbux",
+    "id": "6aa2f01fbe9db26be9d0c35b",
+    "created_date": "2026-09-10T17:59:59.135000",
+    "updated_date": "2026-09-10T17:59:59.135000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5e",
+    "site_name": "RoStake",
+    "id": "6aa2efdae6382cc898c12af3",
+    "created_date": "2026-09-10T17:58:50.311000",
+    "updated_date": "2026-09-10T17:58:50.311000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d62",
+    "site_name": "StarPets",
+    "id": "6aa2ef9ab91235ca5ba6a9cb",
+    "created_date": "2026-09-10T17:57:46.032000",
+    "updated_date": "2026-09-10T17:57:46.032000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b48c4185c004227dd2892",
+    "site_name": "Icey",
+    "id": "6aa2ef6e1d8d41223612040b",
+    "created_date": "2026-09-10T17:57:02.017000",
+    "updated_date": "2026-09-10T17:57:02.017000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d57",
+    "site_name": "RBXRise",
+    "id": "6aa2ef547789ca844cdd346f",
+    "created_date": "2026-09-10T17:56:36.362000",
+    "updated_date": "2026-09-10T17:56:36.362000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4a",
+    "site_name": "RBXPlus",
+    "id": "6aa2ef26e6382cc898c129b0",
+    "created_date": "2026-09-10T17:55:50.400000",
+    "updated_date": "2026-09-10T17:55:50.400000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d56",
+    "site_name": "BLX.gg",
+    "id": "6aa2eed7708fda3c9cc4da9c",
+    "created_date": "2026-09-10T17:54:31.721000",
+    "updated_date": "2026-09-10T17:54:31.721000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5d",
+    "site_name": "BloxFlip",
+    "id": "6aa2bc3f1389ec89e78b6ae2",
+    "created_date": "2026-09-10T14:18:39.202000",
+    "updated_date": "2026-09-10T14:18:39.202000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6aa2b8f2e6adda145b223244",
+    "created_date": "2026-09-10T14:04:34.702000",
+    "updated_date": "2026-09-10T14:04:34.702000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4d",
+    "site_name": "RBXBoost",
+    "id": "6aa2b8c1217d64f9371da391",
+    "created_date": "2026-09-10T14:03:45.616000",
+    "updated_date": "2026-09-10T14:03:45.616000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d54",
+    "site_name": "GameHag",
+    "id": "6aa2b8a4f73c22d2d46fc802",
+    "created_date": "2026-09-10T14:03:16.305000",
+    "updated_date": "2026-09-10T14:03:16.305000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6aa2b83b8a682cb4d836e142",
+    "created_date": "2026-09-10T14:01:31.061000",
+    "updated_date": "2026-09-10T14:01:31.061000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6aa2b81c00a058b2c6b7f2ec",
+    "created_date": "2026-09-10T14:01:00.606000",
+    "updated_date": "2026-09-10T14:01:00.606000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5c",
+    "site_name": "DiceBlox",
+    "id": "6aa2b7a7cce05c0a2ec5a1fa",
+    "created_date": "2026-09-10T13:59:03.386000",
+    "updated_date": "2026-09-10T13:59:03.386000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aa2b783b7e8376ffffae51c",
+    "created_date": "2026-09-10T13:58:27.527000",
+    "updated_date": "2026-09-10T13:58:27.527000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aa2b76893bbfa788e058183",
+    "created_date": "2026-09-10T13:58:00.842000",
+    "updated_date": "2026-09-10T13:58:00.842000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aa2b75864d9e61523fc8145",
+    "created_date": "2026-09-10T13:57:44.837000",
+    "updated_date": "2026-09-10T13:57:44.837000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aa2b73b1bbf4be7520c318f",
+    "created_date": "2026-09-10T13:57:15.409000",
+    "updated_date": "2026-09-10T13:57:15.409000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aa2b72cc3bcf60a9d599df6",
+    "created_date": "2026-09-10T13:57:00.135000",
+    "updated_date": "2026-09-10T13:57:00.136000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6aa2b70280766bf9fa985ccb",
+    "created_date": "2026-09-10T13:56:18.495000",
+    "updated_date": "2026-09-10T13:56:18.495000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4c",
+    "site_name": "SweetRBX",
+    "id": "6aa2b6dfc3bcf60a9d599db4",
+    "created_date": "2026-09-10T13:55:43.593000",
+    "updated_date": "2026-09-10T13:55:43.593000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6aa2b6b32a40e11b50656c34",
+    "created_date": "2026-09-10T13:54:59.090000",
+    "updated_date": "2026-09-10T13:54:59.090000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6aa2b67ca0c9f8772620dffb",
+    "created_date": "2026-09-10T13:54:04.609000",
+    "updated_date": "2026-09-10T13:54:04.609000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aa2b653c2eb98e4de229b27",
+    "created_date": "2026-09-10T13:53:23.212000",
+    "updated_date": "2026-09-10T13:53:23.212000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6aa2b5fd0824f0a5f3b5d6d4",
+    "created_date": "2026-09-10T13:51:57.391000",
+    "updated_date": "2026-09-10T13:51:57.391000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6aa2b5da99dcaf2aeb55cf2c",
+    "created_date": "2026-09-10T13:51:22.300000",
+    "updated_date": "2026-09-10T13:51:22.300000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa2b5c52542b3b8262fe0c0",
+    "created_date": "2026-09-10T13:51:01.768000",
+    "updated_date": "2026-09-10T13:51:01.768000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6aa28555a45c16125789a8c9",
+    "created_date": "2026-09-10T10:24:21.142000",
+    "updated_date": "2026-09-10T10:24:21.142000",
+    "created_by_id": "6a8d74355ee474c912d58a5c",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d40",
+    "site_name": "Earnne",
+    "id": "6aa2852ed13894f2912f5e4f",
+    "created_date": "2026-09-10T10:23:42.417000",
+    "updated_date": "2026-09-10T10:23:42.417000",
+    "created_by_id": "6a8d74355ee474c912d58a5c",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d37",
+    "site_name": "Paidwork",
+    "id": "6aa28516be212d5f60955fd3",
+    "created_date": "2026-09-10T10:23:18.884000",
+    "updated_date": "2026-09-10T10:23:18.884000",
+    "created_by_id": "6a8d74355ee474c912d58a5c",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6aa2496aaa447e472e2d9afc",
+    "created_date": "2026-09-10T06:08:42.531000",
+    "updated_date": "2026-09-10T06:08:42.531000",
+    "created_by_id": "6aa248eae5610c4ab45005a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6aa24911f45d7fa23d565da0",
+    "created_date": "2026-09-10T06:07:13.679000",
+    "updated_date": "2026-09-10T06:07:13.679000",
+    "created_by_id": "6aa248eae5610c4ab45005a7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa1a34128eb3484b9687758",
+    "created_date": "2026-09-09T18:19:45.813000",
+    "updated_date": "2026-09-09T18:19:45.813000",
+    "created_by_id": "6aa1a30a98ab398ea3ff2051",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa1a33ecf389221e3fb2d21",
+    "created_date": "2026-09-09T18:19:42.228000",
+    "updated_date": "2026-09-09T18:19:42.228000",
+    "created_by_id": "6aa1a30a98ab398ea3ff2051",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6aa1a33210e4b821dd833dfa",
+    "created_date": "2026-09-09T18:19:30.471000",
+    "updated_date": "2026-09-09T18:19:30.471000",
+    "created_by_id": "6aa1a30a98ab398ea3ff2051",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aa01cece758cca080d23d18",
+    "created_date": "2026-09-08T14:34:20.459000",
+    "updated_date": "2026-09-08T14:34:20.459000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aa01cecd63c288e2c12b2ec",
+    "created_date": "2026-09-08T14:34:20.451000",
+    "updated_date": "2026-09-08T14:34:20.451000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aa01ceca846e9ebefae97a5",
+    "created_date": "2026-09-08T14:34:20.407000",
+    "updated_date": "2026-09-08T14:34:20.407000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6aa01ceb32ea4ea437c3afb6",
+    "created_date": "2026-09-08T14:34:19.976000",
+    "updated_date": "2026-09-08T14:34:19.976000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6aa01cb75c280b06a6bb4270",
+    "created_date": "2026-09-08T14:33:27.182000",
+    "updated_date": "2026-09-08T14:33:27.182000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6a9ff59214b6d0d66196ffb4",
+    "created_date": "2026-09-08T11:46:26.981000",
+    "updated_date": "2026-09-08T11:46:26.981000",
+    "created_by_id": "6a9ff565f821b88de8690da2",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d46",
+    "site_name": "PollPay",
+    "id": "6a9fd9e4a9b7e6ad5445f8c1",
+    "created_date": "2026-09-08T09:48:20.284000",
+    "updated_date": "2026-09-08T09:48:20.284000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4a",
+    "site_name": "RBXPlus",
+    "id": "6a9fd02d958e225bc0f85b04",
+    "created_date": "2026-09-08T09:06:53.668000",
+    "updated_date": "2026-09-08T09:06:53.668000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6a9fcfff13cf681eeed2bafb",
+    "created_date": "2026-09-08T09:06:07.947000",
+    "updated_date": "2026-09-08T09:06:07.947000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a9fb8759e454ba85997ddab",
+    "created_date": "2026-09-08T07:25:41.198000",
+    "updated_date": "2026-09-08T07:25:41.198000",
+    "created_by_id": "6a9e5a7298907dcdf122f940",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6a9fb86084d61a28aa0a4f65",
+    "created_date": "2026-09-08T07:25:20.785000",
+    "updated_date": "2026-09-08T07:25:20.785000",
+    "created_by_id": "6a9e5a7298907dcdf122f940",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6a9fb83b611bc099470ffb81",
+    "created_date": "2026-09-08T07:24:43.353000",
+    "updated_date": "2026-09-08T07:24:43.353000",
+    "created_by_id": "6a9e5a7298907dcdf122f940",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6a9ed1c2969db6a759140eec",
+    "created_date": "2026-09-07T15:01:22.813000",
+    "updated_date": "2026-09-07T15:01:22.813000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6a9ed197ecb9854cc84364d9",
+    "created_date": "2026-09-07T15:00:39.075000",
+    "updated_date": "2026-09-07T15:00:39.075000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6a9ed0057dfb69cf78a0b935",
+    "created_date": "2026-09-07T14:53:57.356000",
+    "updated_date": "2026-09-07T14:53:57.356000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6a9ecdb386ce042997154277",
+    "created_date": "2026-09-07T14:44:03.410000",
+    "updated_date": "2026-09-07T14:44:03.410000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a9ecd3080cbb534453f8b3f",
+    "created_date": "2026-09-07T14:41:52.372000",
+    "updated_date": "2026-09-07T14:41:52.372000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a9ecc91a19d6d5071d5fb2d",
+    "created_date": "2026-09-07T14:39:13.477000",
+    "updated_date": "2026-09-07T14:39:13.477000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6a9ecc86966e80706986a08f",
+    "created_date": "2026-09-07T14:39:02.911000",
+    "updated_date": "2026-09-07T14:39:02.911000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a99ede0cf776f96c9587332",
+    "site_name": "CubePoints",
+    "id": "6a9ecc64429f79c3312279d7",
+    "created_date": "2026-09-07T14:38:28.668000",
+    "updated_date": "2026-09-07T14:38:28.668000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6a9e994772530ec9315d9c65",
+    "created_date": "2026-09-07T11:00:23.305000",
+    "updated_date": "2026-09-07T11:00:23.305000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a9e5adcdef643f27c9de54e",
+    "created_date": "2026-09-07T06:34:04.368000",
+    "updated_date": "2026-09-07T06:34:04.368000",
+    "created_by_id": "6a9e5a7298907dcdf122f940",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6a9e5acbef2cd67944769712",
+    "created_date": "2026-09-07T06:33:47.918000",
+    "updated_date": "2026-09-07T06:33:47.918000",
+    "created_by_id": "6a9e5a7298907dcdf122f940",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6a9e582353425d36f8dddd76",
+    "created_date": "2026-09-07T06:22:27.989000",
+    "updated_date": "2026-09-07T06:22:27.989000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6a9e560fed050fc61f996b03",
+    "created_date": "2026-09-07T06:13:35.229000",
+    "updated_date": "2026-09-07T06:13:35.229000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a9e55d68063a68ab62929e6",
+    "created_date": "2026-09-07T06:12:38.090000",
+    "updated_date": "2026-09-07T06:12:38.090000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6a9e55ae6733be4d5917cad0",
+    "created_date": "2026-09-07T06:11:58.976000",
+    "updated_date": "2026-09-07T06:11:58.976000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6a9e5597dc9131660e01eb67",
+    "created_date": "2026-09-07T06:11:35.473000",
+    "updated_date": "2026-09-07T06:11:35.473000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a99e985204929fbadd8f6cb",
+    "created_date": "2026-09-03T21:41:25.864000",
+    "updated_date": "2026-09-03T21:41:25.864000",
+    "created_by_id": "6a99e8f83d851d1be92b8650",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a99e916a96ec307fa2db6d7",
+    "created_date": "2026-09-03T21:39:34.349000",
+    "updated_date": "2026-09-03T21:39:34.349000",
+    "created_by_id": "6a99e8f83d851d1be92b8650",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a99424341f13cdee260b011",
+    "created_date": "2026-09-03T09:47:47.618000",
+    "updated_date": "2026-09-03T09:47:47.618000",
+    "created_by_id": "6a99422585d9cd13b13a7db7",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a95a7dcb72234ea1203b9e1",
+    "created_date": "2026-08-31T16:12:12.144000",
+    "updated_date": "2026-08-31T16:12:12.144000",
+    "created_by_id": "6a95a79d276366aa9b4c6362",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b51873e92af59fd652243",
+    "site_name": "Rbxnow",
+    "id": "6a94cd9af9476785245bd1a8",
+    "created_date": "2026-08-31T00:40:58.271000",
+    "updated_date": "2026-08-31T00:40:58.271000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d62",
+    "site_name": "StarPets",
+    "id": "6a947671e81e749b198f1519",
+    "created_date": "2026-08-30T18:29:05.316000",
+    "updated_date": "2026-08-30T18:29:05.316000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d61",
+    "site_name": "BloxTask",
+    "id": "6a94758b59def5b654d34a28",
+    "created_date": "2026-08-30T18:25:15.736000",
+    "updated_date": "2026-08-30T18:25:15.736000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d60",
+    "site_name": "RBXDemon",
+    "id": "6a947511910a9c2f9068daa1",
+    "created_date": "2026-08-30T18:23:13.144000",
+    "updated_date": "2026-08-30T18:23:13.144000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5f",
+    "site_name": "TaskBux",
+    "id": "6a9474d0ea6a9f43ad7062dd",
+    "created_date": "2026-08-30T18:22:08.627000",
+    "updated_date": "2026-08-30T18:22:08.627000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5e",
+    "site_name": "RoStake",
+    "id": "6a947482d63ddc80cdaeb5c4",
+    "created_date": "2026-08-30T18:20:50.508000",
+    "updated_date": "2026-08-30T18:20:50.508000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5e",
+    "site_name": "RoStake",
+    "id": "6a94743db2dac76b77afd261",
+    "created_date": "2026-08-30T18:19:41.416000",
+    "updated_date": "2026-08-30T18:19:41.416000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b486ce5b5006b38bb191e",
+    "site_name": "Ezbux",
+    "id": "6a947438cd023ab787e796fd",
+    "created_date": "2026-08-30T18:19:36.054000",
+    "updated_date": "2026-08-30T18:19:36.054000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b486ce5b5006b38bb191e",
+    "site_name": "Ezbux",
+    "id": "6a94742c7a2009dbf5c31bc7",
+    "created_date": "2026-08-30T18:19:24.214000",
+    "updated_date": "2026-08-30T18:19:24.214000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b48c4185c004227dd2892",
+    "site_name": "Icey",
+    "id": "6a9473bfd0521e923d5541af",
+    "created_date": "2026-08-30T18:17:35.220000",
+    "updated_date": "2026-08-30T18:17:35.220000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b51873e92af59fd652243",
+    "site_name": "Rbxnow",
+    "id": "6a94726f623ae409455f2cee",
+    "created_date": "2026-08-30T18:11:59.886000",
+    "updated_date": "2026-08-30T18:11:59.886000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b5610b901c78bbafe75f9",
+    "site_name": "Rbx best",
+    "id": "6a94724aec67357206a4c697",
+    "created_date": "2026-08-30T18:11:22.498000",
+    "updated_date": "2026-08-30T18:11:22.498000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5d",
+    "site_name": "BloxFlip",
+    "id": "6a9471d748f20862353fd730",
+    "created_date": "2026-08-30T18:09:27.825000",
+    "updated_date": "2026-08-30T18:09:27.825000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5c",
+    "site_name": "DiceBlox",
+    "id": "6a9471937a1f7c94a5deb3df",
+    "created_date": "2026-08-30T18:08:19.252000",
+    "updated_date": "2026-08-30T18:08:19.252000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5c",
+    "site_name": "DiceBlox",
+    "id": "6a9470b70ee1079a25461ae9",
+    "created_date": "2026-08-30T18:04:39.287000",
+    "updated_date": "2026-08-30T18:04:39.287000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6a94707511d17e8c3991fe84",
+    "created_date": "2026-08-30T18:03:33.483000",
+    "updated_date": "2026-08-30T18:03:33.483000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6a947049199612d60b188c2d",
+    "created_date": "2026-08-30T18:02:49.249000",
+    "updated_date": "2026-08-30T18:02:49.249000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d59",
+    "site_name": "GemsLoot",
+    "id": "6a946fff5f67caca4801fc39",
+    "created_date": "2026-08-30T18:01:35.812000",
+    "updated_date": "2026-08-30T18:01:35.812000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d58",
+    "site_name": "RBXStacks",
+    "id": "6a946fa2cdfa855387d07a54",
+    "created_date": "2026-08-30T18:00:02.530000",
+    "updated_date": "2026-08-30T18:00:02.530000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d57",
+    "site_name": "RBXRise",
+    "id": "6a946f452931360aa37501a9",
+    "created_date": "2026-08-30T17:58:29.947000",
+    "updated_date": "2026-08-30T17:58:29.947000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d56",
+    "site_name": "BLX.gg",
+    "id": "6a946e77938775e7b6fd23c7",
+    "created_date": "2026-08-30T17:55:03.587000",
+    "updated_date": "2026-08-30T17:55:03.587000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6a945fb20537aaedd4731e96",
+    "created_date": "2026-08-30T16:52:02.400000",
+    "updated_date": "2026-08-30T16:52:02.400000",
+    "created_by_id": "6a945f5e3b910f40adba4275",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6a945786aa0253ad4cace202",
+    "created_date": "2026-08-30T16:17:10.178000",
+    "updated_date": "2026-08-30T16:17:10.178000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d54",
+    "site_name": "GameHag",
+    "id": "6a94561db7d7e0e341e578fb",
+    "created_date": "2026-08-30T16:11:09.400000",
+    "updated_date": "2026-08-30T16:11:09.400000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d53",
+    "site_name": "CPAXPro",
+    "id": "6a94558997520a53516aa90c",
+    "created_date": "2026-08-30T16:08:41.397000",
+    "updated_date": "2026-08-30T16:08:41.397000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6a945558d5f5a2b5f10009aa",
+    "created_date": "2026-08-30T16:07:52.174000",
+    "updated_date": "2026-08-30T16:07:52.174000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6a9454fe1f8376915adafd62",
+    "created_date": "2026-08-30T16:06:22.600000",
+    "updated_date": "2026-08-30T16:06:22.600000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6a94528b6bc09e45a04fd4af",
+    "created_date": "2026-08-30T15:55:55.055000",
+    "updated_date": "2026-08-30T15:55:55.055000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6a94424125c8356236371fbd",
+    "created_date": "2026-08-30T14:46:25.377000",
+    "updated_date": "2026-08-30T14:46:25.377000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6a94419b87f9b66dc332bd28",
+    "created_date": "2026-08-30T14:43:39.446000",
+    "updated_date": "2026-08-30T14:43:39.446000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6a94418726c699388fb9818e",
+    "created_date": "2026-08-30T14:43:19.411000",
+    "updated_date": "2026-08-30T14:43:19.411000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6a94416761f3d5590f0d46d5",
+    "created_date": "2026-08-30T14:42:47.783000",
+    "updated_date": "2026-08-30T14:42:47.783000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a94413e891307583b6fc451",
+    "created_date": "2026-08-30T14:42:06.770000",
+    "updated_date": "2026-08-30T14:42:06.770000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a94412c3086a2d7c9b53518",
+    "created_date": "2026-08-30T14:41:48.253000",
+    "updated_date": "2026-08-30T14:41:48.253000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a94412cbc53b6c334c37df4",
+    "created_date": "2026-08-30T14:41:48.154000",
+    "updated_date": "2026-08-30T14:41:48.154000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4d",
+    "site_name": "RBXBoost",
+    "id": "6a94400d2c7a0f339a4426d7",
+    "created_date": "2026-08-30T14:37:01.478000",
+    "updated_date": "2026-08-30T14:37:01.478000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4a",
+    "site_name": "RBXPlus",
+    "id": "6a943ea93be8cfa6f120d04b",
+    "created_date": "2026-08-30T14:31:05.888000",
+    "updated_date": "2026-08-30T14:31:05.888000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6a943df7c56da0337bb9f9ab",
+    "created_date": "2026-08-30T14:28:07.656000",
+    "updated_date": "2026-08-30T14:28:07.656000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6a943c3b28ac11a035be9211",
+    "created_date": "2026-08-30T14:20:43.102000",
+    "updated_date": "2026-08-30T14:20:43.102000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6a943b35c3b7b91c864580b2",
+    "created_date": "2026-08-30T14:16:21.960000",
+    "updated_date": "2026-08-30T14:16:21.960000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a9439fecb4cc25bd0c3baba",
+    "created_date": "2026-08-30T14:11:10.796000",
+    "updated_date": "2026-08-30T14:11:10.796000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3d",
+    "site_name": "Freecash",
+    "id": "6a9439da2ed16e9b768cc453",
+    "created_date": "2026-08-30T14:10:34.323000",
+    "updated_date": "2026-08-30T14:10:34.323000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6a943950e06319d0ab137963",
+    "created_date": "2026-08-30T14:08:16.151000",
+    "updated_date": "2026-08-30T14:08:16.151000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a9437a875a49fceb6999468",
+    "created_date": "2026-08-30T14:01:12.973000",
+    "updated_date": "2026-08-30T14:01:12.973000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6a9433c0dc94777ac457dfce",
+    "created_date": "2026-08-30T13:44:32.211000",
+    "updated_date": "2026-08-30T13:44:32.211000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3f",
+    "site_name": "Zoombucks",
+    "id": "6a94338ca4df8b6e6a4d437b",
+    "created_date": "2026-08-30T13:43:40.576000",
+    "updated_date": "2026-08-30T13:43:40.576000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a9432fd8839d1b4f5ee0825",
+    "created_date": "2026-08-30T13:41:17.871000",
+    "updated_date": "2026-08-30T13:41:17.871000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3f",
+    "site_name": "Zoombucks",
+    "id": "6a9432de100fd809786cbf31",
+    "created_date": "2026-08-30T13:40:46.469000",
+    "updated_date": "2026-08-30T13:40:46.469000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d53",
+    "site_name": "CPAXPro",
+    "id": "6a94094f34603c30b014e1b6",
+    "created_date": "2026-08-30T10:43:27.668000",
+    "updated_date": "2026-08-30T10:43:27.668000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6a94091eecfd64e28c166472",
+    "created_date": "2026-08-30T10:42:38.236000",
+    "updated_date": "2026-08-30T10:42:38.236000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b48c4185c004227dd2892",
+    "site_name": "Icey",
+    "id": "6a94087ac7ef4e5faf59d183",
+    "created_date": "2026-08-30T10:39:54.636000",
+    "updated_date": "2026-08-30T10:39:54.636000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b486ce5b5006b38bb191e",
+    "site_name": "Ezbux",
+    "id": "6a9408718c18b7dd7a3350b8",
+    "created_date": "2026-08-30T10:39:45.863000",
+    "updated_date": "2026-08-30T10:39:45.863000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5f",
+    "site_name": "TaskBux",
+    "id": "6a940866a4ef9cf6c1a9c0d5",
+    "created_date": "2026-08-30T10:39:34.782000",
+    "updated_date": "2026-08-30T10:39:34.782000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d62",
+    "site_name": "StarPets",
+    "id": "6a94080d21c89de6f37eeddb",
+    "created_date": "2026-08-30T10:38:05.163000",
+    "updated_date": "2026-08-30T10:38:05.163000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d59",
+    "site_name": "GemsLoot",
+    "id": "6a93f4b1f076fc9a1e02825e",
+    "created_date": "2026-08-30T09:15:29.958000",
+    "updated_date": "2026-08-30T09:15:29.958000",
+    "created_by_id": "6a92c89ba1fbf9c183e0ef04",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a93f16f160d212cee2f370c",
+    "created_date": "2026-08-30T09:01:35.688000",
+    "updated_date": "2026-08-30T09:01:35.688000",
+    "created_by_id": "6a92c89ba1fbf9c183e0ef04",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b48c4185c004227dd2892",
+    "site_name": "Icey",
+    "id": "6a93ddd88b84a5a1132a154b",
+    "created_date": "2026-08-30T07:38:00.809000",
+    "updated_date": "2026-08-30T07:38:00.809000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b51873e92af59fd652243",
+    "site_name": "Rbxnow",
+    "id": "6a93dd2579851e6a53857d47",
+    "created_date": "2026-08-30T07:35:01.766000",
+    "updated_date": "2026-08-30T07:35:01.766000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6a93dcf52c719b6c3905c2a2",
+    "created_date": "2026-08-30T07:34:13.076000",
+    "updated_date": "2026-08-30T07:34:13.076000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6a93dcdc4aea79906815b6fa",
+    "created_date": "2026-08-30T07:33:48.080000",
+    "updated_date": "2026-08-30T07:33:48.080000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a93d24e468ebff009eee6d0",
+    "created_date": "2026-08-30T06:48:46.517000",
+    "updated_date": "2026-08-30T06:48:46.517000",
+    "created_by_id": "6a91aba629f8a6837c0c8587",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6a93cdc7e3fd82215db265a9",
+    "created_date": "2026-08-30T06:29:27.861000",
+    "updated_date": "2026-08-30T06:29:27.861000",
+    "created_by_id": "6a91aba629f8a6837c0c8587",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6a93cab0f8a5de306e3f3ad1",
+    "created_date": "2026-08-30T06:16:16.904000",
+    "updated_date": "2026-08-30T06:16:16.904000",
+    "created_by_id": "6a91aba629f8a6837c0c8587",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a87720b3d32f7af80d17407",
+    "site_name": "Earnaldo",
+    "id": "6a92e973fdf4909c789c4e61",
+    "created_date": "2026-08-29T14:15:15.484000",
+    "updated_date": "2026-08-29T14:15:15.484000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6a92d4ba851a46db92bf8623",
+    "created_date": "2026-08-29T12:46:50.666000",
+    "updated_date": "2026-08-29T12:46:50.666000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6a92d4ba30709adaf4ab47d7",
+    "created_date": "2026-08-29T12:46:50.588000",
+    "updated_date": "2026-08-29T12:46:50.588000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a92c8cdf2c0e1e66c80a2ab",
+    "created_date": "2026-08-29T11:55:57.716000",
+    "updated_date": "2026-08-29T11:55:57.716000",
+    "created_by_id": "6a92c89ba1fbf9c183e0ef04",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6a926cfd24230db2bbdcc54f",
+    "created_date": "2026-08-29T05:24:13.321000",
+    "updated_date": "2026-08-29T05:24:13.321000",
+    "created_by_id": "6a8c654411b8594ab69b1130",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a926cdcb873a603149ae036",
+    "created_date": "2026-08-29T05:23:40.841000",
+    "updated_date": "2026-08-29T05:23:40.841000",
+    "created_by_id": "6a8c654411b8594ab69b1130",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4d",
+    "site_name": "RBXBoost",
+    "id": "6a91c0dcebd568908e506d21",
+    "created_date": "2026-08-28T17:09:48.457000",
+    "updated_date": "2026-08-28T17:09:48.457000",
+    "created_by_id": "6a91bb19746f3c7d78bc5afb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4c",
+    "site_name": "SweetRBX",
+    "id": "6a91c015d5163ee796acda83",
+    "created_date": "2026-08-28T17:06:29.856000",
+    "updated_date": "2026-08-28T17:06:29.856000",
+    "created_by_id": "6a91bb19746f3c7d78bc5afb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4c",
+    "site_name": "SweetRBX",
+    "id": "6a91bfd263790538b4be2654",
+    "created_date": "2026-08-28T17:05:22.130000",
+    "updated_date": "2026-08-28T17:05:22.130000",
+    "created_by_id": "6a91bb19746f3c7d78bc5afb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6a91bfbd48b3507c43961ace",
+    "created_date": "2026-08-28T17:05:01.563000",
+    "updated_date": "2026-08-28T17:05:01.563000",
+    "created_by_id": "6a91bb19746f3c7d78bc5afb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a91bf990b20f36284819d41",
+    "created_date": "2026-08-28T17:04:25.323000",
+    "updated_date": "2026-08-28T17:04:25.323000",
+    "created_by_id": "6a91bb19746f3c7d78bc5afb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a91bbc8b254e2589ab81de0",
+    "created_date": "2026-08-28T16:48:08.770000",
+    "updated_date": "2026-08-28T16:48:08.770000",
+    "created_by_id": "6a91bb19746f3c7d78bc5afb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a91ad12497e7c131fde02f8",
+    "created_date": "2026-08-28T15:45:22.637000",
+    "updated_date": "2026-08-28T15:45:22.637000",
+    "created_by_id": "6a91aca2fe1fc3893c89afdd",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a91acf5892d5bdffda5482c",
+    "created_date": "2026-08-28T15:44:53.455000",
+    "updated_date": "2026-08-28T15:44:53.455000",
+    "created_by_id": "6a91aca2fe1fc3893c89afdd",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6a919cfe882015e3bfb886eb",
+    "created_date": "2026-08-28T14:36:46.931000",
+    "updated_date": "2026-08-28T14:36:46.931000",
+    "created_by_id": "6a919cdb390dd89a8b95440d",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a919659946f673fa6b5464d",
+    "created_date": "2026-08-28T14:08:25.427000",
+    "updated_date": "2026-08-28T14:08:25.427000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a9056d3ceca97b31eda7311",
+    "created_date": "2026-08-27T15:25:07.446000",
+    "updated_date": "2026-08-27T15:25:07.446000",
+    "created_by_id": "6a9056b21d0991d30cddda23",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d6c",
+    "site_name": "NitroLoot",
+    "id": "6a903be54fa4db645a5f06ac",
+    "created_date": "2026-08-27T13:30:13.867000",
+    "updated_date": "2026-08-27T13:30:13.867000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6a9028028eae074337acfdac",
+    "created_date": "2026-08-27T12:05:22.028000",
+    "updated_date": "2026-08-27T12:05:22.028000",
+    "created_by_id": "6a9026cea3b66943246e8d75",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6a9027fec324daa3af509c84",
+    "created_date": "2026-08-27T12:05:18.746000",
+    "updated_date": "2026-08-27T12:05:18.746000",
+    "created_by_id": "6a9026cea3b66943246e8d75",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6a9027fbe10692298e2bea93",
+    "created_date": "2026-08-27T12:05:15.396000",
+    "updated_date": "2026-08-27T12:05:15.396000",
+    "created_by_id": "6a9026cea3b66943246e8d75",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b5d6a73ed2dbb80ac0bed",
+    "site_name": "Lootx",
+    "id": "6a9026f180a1de51af63fdf8",
+    "created_date": "2026-08-27T12:00:49.066000",
+    "updated_date": "2026-08-27T12:00:49.066000",
+    "created_by_id": "6a9026cea3b66943246e8d75",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8f5aed2fdbb56a8c67f4da",
+    "created_date": "2026-08-26T21:30:21.162000",
+    "updated_date": "2026-08-26T21:30:21.162000",
+    "created_by_id": "6a8e61e51b20d4a4044f24fa",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8f5550ee8cd687c654b090",
+    "created_date": "2026-08-26T21:06:24.230000",
+    "updated_date": "2026-08-26T21:06:24.230000",
+    "created_by_id": "6a8e61e51b20d4a4044f24fa",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d58",
+    "site_name": "RBXStacks",
+    "id": "6a8f3bd481d45098d5163008",
+    "created_date": "2026-08-26T19:17:40.993000",
+    "updated_date": "2026-08-26T19:17:40.993000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d58",
+    "site_name": "RBXStacks",
+    "id": "6a8f3bc2cf876851ea8dc22d",
+    "created_date": "2026-08-26T19:17:22.277000",
+    "updated_date": "2026-08-26T19:17:22.277000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6a8f3b9546498689f3fd262c",
+    "created_date": "2026-08-26T19:16:37.201000",
+    "updated_date": "2026-08-26T19:16:37.201000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4a",
+    "site_name": "RBXPlus",
+    "id": "6a8f3a9be747e946790c7a06",
+    "created_date": "2026-08-26T19:12:27.376000",
+    "updated_date": "2026-08-26T19:12:27.376000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d56",
+    "site_name": "BLX.gg",
+    "id": "6a8f398da65e869dbcfd3a22",
+    "created_date": "2026-08-26T19:07:57.634000",
+    "updated_date": "2026-08-26T19:07:57.634000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d56",
+    "site_name": "BLX.gg",
+    "id": "6a8f3945d3756e7de1b62227",
+    "created_date": "2026-08-26T19:06:45.669000",
+    "updated_date": "2026-08-26T19:06:45.669000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6a8f3885a7ba178a371ac7f4",
+    "created_date": "2026-08-26T19:03:33.348000",
+    "updated_date": "2026-08-26T19:03:33.348000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6a8f3879ed37642ee3a5d452",
+    "created_date": "2026-08-26T19:03:21.485000",
+    "updated_date": "2026-08-26T19:03:21.485000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8f2403cd3c35539eedc72b",
+    "created_date": "2026-08-26T17:36:03.120000",
+    "updated_date": "2026-08-26T17:36:03.120000",
+    "created_by_id": "6a8e61e51b20d4a4044f24fa",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a8ecd09f764ed5d089ff221",
+    "created_date": "2026-08-26T11:24:57.508000",
+    "updated_date": "2026-08-26T11:24:57.508000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a8eccf5f6410406071de73e",
+    "created_date": "2026-08-26T11:24:37.546000",
+    "updated_date": "2026-08-26T11:24:37.546000",
+    "created_by_id": "6a8eccab4effab59abeee92f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8e777ae37ad208a4359174",
+    "created_date": "2026-08-26T05:19:54.110000",
+    "updated_date": "2026-08-26T05:19:54.110000",
+    "created_by_id": "6a8e61e51b20d4a4044f24fa",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8e6223dd83afd94c332c75",
+    "created_date": "2026-08-26T03:48:51.969000",
+    "updated_date": "2026-08-26T03:48:51.969000",
+    "created_by_id": "6a8e61e51b20d4a4044f24fa",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8e5c524faaa7705008ccb2",
+    "created_date": "2026-08-26T03:24:02.369000",
+    "updated_date": "2026-08-26T03:24:02.369000",
+    "created_by_id": "6a8e5b6406269acb76877620",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8e4a30b94dcf13d2ccb4c4",
+    "created_date": "2026-08-26T02:06:40.283000",
+    "updated_date": "2026-08-26T02:06:40.283000",
+    "created_by_id": "6a8e49c335422144d9cab812",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6a8e1edbcc40bc41d6e2df04",
+    "created_date": "2026-08-25T23:01:47.429000",
+    "updated_date": "2026-08-25T23:01:47.429000",
+    "created_by_id": "6a8e1b0b139d2fb0b0c64255",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8e1deb874f050014ec4e0c",
+    "created_date": "2026-08-25T22:57:47.371000",
+    "updated_date": "2026-08-25T22:57:47.371000",
+    "created_by_id": "6a8e1b0b139d2fb0b0c64255",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8e1cedffd2fe03eec2626d",
+    "created_date": "2026-08-25T22:53:33.922000",
+    "updated_date": "2026-08-25T22:53:33.922000",
+    "created_by_id": "6a8e1b0b139d2fb0b0c64255",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a8e1b69a6cc6c352541fa40",
+    "created_date": "2026-08-25T22:47:05.629000",
+    "updated_date": "2026-08-25T22:47:05.629000",
+    "created_by_id": "6a8e1b0b139d2fb0b0c64255",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3a",
+    "site_name": "PrizeRebel",
+    "id": "6a8c98d30aeb49dbf31fa75e",
+    "created_date": "2026-08-24T19:17:39.884000",
+    "updated_date": "2026-08-24T19:17:39.884000",
+    "created_by_id": "6a8b59912a57d82b1a2025d9",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a8c9823856db72fbb9af0b3",
+    "created_date": "2026-08-24T19:14:43.609000",
+    "updated_date": "2026-08-24T19:14:43.609000",
+    "created_by_id": "6a8b59912a57d82b1a2025d9",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6a8c66179af145dc5a5cc69d",
+    "created_date": "2026-08-24T15:41:11.402000",
+    "updated_date": "2026-08-24T15:41:11.402000",
+    "created_by_id": "6a8c654411b8594ab69b1130",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8c65d7d96f8b7e6ff9d0c6",
+    "created_date": "2026-08-24T15:40:07.883000",
+    "updated_date": "2026-08-24T15:40:07.883000",
+    "created_by_id": "6a8c654411b8594ab69b1130",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a8c4df52fa69a04c3a3503b",
+    "created_date": "2026-08-24T13:58:13.225000",
+    "updated_date": "2026-08-24T13:58:13.225000",
+    "created_by_id": "6a8c4d5f88e8767c11cc0b17",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d3e",
+    "site_name": "Earnitz",
+    "id": "6a8c4da5a51aefe25d24272a",
+    "created_date": "2026-08-24T13:56:53.377000",
+    "updated_date": "2026-08-24T13:56:53.377000",
+    "created_by_id": "6a8c4d5f88e8767c11cc0b17",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6a8c2f02b06234505fde04b8",
+    "created_date": "2026-08-24T11:46:10.068000",
+    "updated_date": "2026-08-24T11:46:10.068000",
+    "created_by_id": "6a8c2eb31ea97ace080bc830",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5a",
+    "site_name": "Farm-RBX",
+    "id": "6a8c21c126fd33ad91783bb5",
+    "created_date": "2026-08-24T10:49:37.056000",
+    "updated_date": "2026-08-24T10:49:37.056000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6a8c21a3d9e8f69c1a862f16",
+    "created_date": "2026-08-24T10:49:07.030000",
+    "updated_date": "2026-08-24T10:49:07.030000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a8c218d2ead5631a3c8d581",
+    "created_date": "2026-08-24T10:48:45.556000",
+    "updated_date": "2026-08-24T10:48:45.556000",
+    "created_by_id": "6a8c2148807a9205e9adb0cc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6a8ba73e3a83da1cc198f7e1",
+    "created_date": "2026-08-24T02:06:54.228000",
+    "updated_date": "2026-08-24T02:06:54.228000",
+    "created_by_id": "6a8b8c792dfb238f04279ae3",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a8b9b8d56e9781b9339d219",
+    "created_date": "2026-08-24T01:17:01.454000",
+    "updated_date": "2026-08-24T01:17:01.454000",
+    "created_by_id": "6a8b8c792dfb238f04279ae3",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d6c",
+    "site_name": "NitroLoot",
+    "id": "6a8b4b6c999da8c79d4d0e4c",
+    "created_date": "2026-08-23T19:35:08.169000",
+    "updated_date": "2026-08-23T19:35:08.169000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b486ce5b5006b38bb191e",
+    "site_name": "Ezbux",
+    "id": "6a8b4921f5b55f80470aa9a2",
+    "created_date": "2026-08-23T19:25:21.374000",
+    "updated_date": "2026-08-23T19:25:21.374000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a8b48c4185c004227dd2892",
+    "site_name": "Icey",
+    "id": "6a8b48f896bcd747b517d416",
+    "created_date": "2026-08-23T19:24:40.281000",
+    "updated_date": "2026-08-23T19:24:40.281000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6a8b373297a7bb4fde6fdea7",
+    "created_date": "2026-08-23T18:08:50.014000",
+    "updated_date": "2026-08-23T18:08:50.014000",
+    "created_by_id": "6a8b211bbce467c20c123f00",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a89925531cca4fd6a64d17e",
+    "site_name": "Robux Rewards ",
+    "id": "6a8b216cc64453e75241780f",
+    "created_date": "2026-08-23T16:35:56.737000",
+    "updated_date": "2026-08-23T16:35:56.737000",
+    "created_by_id": "6a8b211bbce467c20c123f00",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a892a4b7a237e5f3aca45f4",
+    "created_date": "2026-08-22T04:49:15.480000",
+    "updated_date": "2026-08-22T04:49:15.480000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d67",
+    "site_name": "SWC App",
+    "id": "6a892a2f2c501cde591338c5",
+    "created_date": "2026-08-22T04:48:47.279000",
+    "updated_date": "2026-08-22T04:48:47.279000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5f",
+    "site_name": "TaskBux",
+    "id": "6a87726648ac7fa8984a60b8",
+    "created_date": "2026-08-20T21:32:22.737000",
+    "updated_date": "2026-08-20T21:32:22.737000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6a8727d86918b1fa301290da",
+    "created_date": "2026-08-20T16:14:16.064000",
+    "updated_date": "2026-08-20T16:14:16.064000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d56",
+    "site_name": "BLX.gg",
+    "id": "6a87263650a30acb18dd0895",
+    "created_date": "2026-08-20T16:07:18.898000",
+    "updated_date": "2026-08-20T16:07:18.898000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5b",
+    "site_name": "BloxTime",
+    "id": "6a870872755a214ce13f3408",
+    "created_date": "2026-08-20T14:00:18.867000",
+    "updated_date": "2026-08-20T14:00:18.867000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d57",
+    "site_name": "RBXRise",
+    "id": "6a87084fd229f3bc5b016c30",
+    "created_date": "2026-08-20T13:59:43.632000",
+    "updated_date": "2026-08-20T13:59:43.632000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d55",
+    "site_name": "BloxAwards",
+    "id": "6a8707d1c06e4752cd9526a6",
+    "created_date": "2026-08-20T13:57:37.174000",
+    "updated_date": "2026-08-20T13:57:37.174000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d62",
+    "site_name": "StarPets",
+    "id": "6a87075de0a959c61adc0b5e",
+    "created_date": "2026-08-20T13:55:41.588000",
+    "updated_date": "2026-08-20T13:55:41.588000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d61",
+    "site_name": "BloxTask",
+    "id": "6a8707258237e38151265eef",
+    "created_date": "2026-08-20T13:54:45.115000",
+    "updated_date": "2026-08-20T13:54:45.115000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d60",
+    "site_name": "RBXDemon",
+    "id": "6a8706c28c694a0024965450",
+    "created_date": "2026-08-20T13:53:06.226000",
+    "updated_date": "2026-08-20T13:53:06.226000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d54",
+    "site_name": "GameHag",
+    "id": "6a87062b17f8e04c0dc69967",
+    "created_date": "2026-08-20T13:50:35.199000",
+    "updated_date": "2026-08-20T13:50:35.199000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d52",
+    "site_name": "Roblobux",
+    "id": "6a8705f113cf7bc641f2b6d6",
+    "created_date": "2026-08-20T13:49:37.232000",
+    "updated_date": "2026-08-20T13:49:37.232000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d51",
+    "site_name": "TaskBux Robux",
+    "id": "6a8705c41707161ef0026690",
+    "created_date": "2026-08-20T13:48:52.383000",
+    "updated_date": "2026-08-20T13:48:52.383000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4f",
+    "site_name": "BloxEarn",
+    "id": "6a87056c3e32912306eb8424",
+    "created_date": "2026-08-20T13:47:24.499000",
+    "updated_date": "2026-08-20T13:47:24.499000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4e",
+    "site_name": "RoCash",
+    "id": "6a8705438ea85a8e22f2eee6",
+    "created_date": "2026-08-20T13:46:43.291000",
+    "updated_date": "2026-08-20T13:46:43.291000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4d",
+    "site_name": "RBXBoost",
+    "id": "6a8704ff03cd9e3af8624a60",
+    "created_date": "2026-08-20T13:45:35.204000",
+    "updated_date": "2026-08-20T13:45:35.204000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4c",
+    "site_name": "SweetRBX",
+    "id": "6a8704d07b0e205d2442c01d",
+    "created_date": "2026-08-20T13:44:48.339000",
+    "updated_date": "2026-08-20T13:44:48.339000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d4b",
+    "site_name": "ClaimRBX",
+    "id": "6a8704951a9ff5b6cb50ecd2",
+    "created_date": "2026-08-20T13:43:49.753000",
+    "updated_date": "2026-08-20T13:43:49.753000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6a86493cf81a029eb53f4291",
+    "created_date": "2026-08-20T00:24:28.284000",
+    "updated_date": "2026-08-20T00:24:28.284000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a863ef26d923a244958caa3",
+    "created_date": "2026-08-19T23:40:34.021000",
+    "updated_date": "2026-08-19T23:40:34.021000",
+    "created_by_id": "6a863eb8ca5e34e06ba36cfb",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6a85e7ab8ea77c73e23af166",
+    "created_date": "2026-08-19T17:28:11.282000",
+    "updated_date": "2026-08-19T17:28:11.282000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6a85e780d8b2037dad6cac6a",
+    "created_date": "2026-08-19T17:27:28.461000",
+    "updated_date": "2026-08-19T17:27:28.461000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d49",
+    "site_name": "PlanetRBX",
+    "id": "6a85e599eff250da05f7e41e",
+    "created_date": "2026-08-19T17:19:21.507000",
+    "updated_date": "2026-08-19T17:19:21.507000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d47",
+    "site_name": "RBLX.Space",
+    "id": "6a85e5811de876489d2d47b3",
+    "created_date": "2026-08-19T17:18:57.550000",
+    "updated_date": "2026-08-19T17:18:57.550000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d48",
+    "site_name": "CashBlox",
+    "id": "6a85dbbd81f916fe8de026de",
+    "created_date": "2026-08-19T16:37:17.029000",
+    "updated_date": "2026-08-19T16:37:17.029000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d50",
+    "site_name": "RBLX.Earth",
+    "id": "6a85db94fd87cebba3debef5",
+    "created_date": "2026-08-19T16:36:36.788000",
+    "updated_date": "2026-08-19T16:36:36.788000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d43",
+    "site_name": "Freeward",
+    "id": "6a85d9562ff830f4a04642b2",
+    "created_date": "2026-08-19T16:27:02.364000",
+    "updated_date": "2026-08-19T16:27:02.364000",
+    "created_by_id": "6a85d91a8ee8e9dccff8bcdc",
+    "is_sample": false
+  },
+  {
+    "site_id": "6a82d01e7a6d71aef6581d5f",
+    "site_name": "TaskBux",
+    "id": "6a85cc96db09a450810979fb",
+    "created_date": "2026-08-19T15:32:38.431000",
+    "updated_date": "2026-08-19T15:32:38.431000",
+    "created_by_id": "6a82e24f103b1f537a22246f",
+    "is_sample": false
+  }
+]
