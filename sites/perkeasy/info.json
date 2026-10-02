@@ -1,0 +1,33 @@
+{
+  "like_count": 0,
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=perkeasy.com",
+  "description": "",
+  "click_count": 0,
+  "promo_code": "",
+  "has_copy_code": false,
+  "url": "https://perkeasy.com/w/darkoff",
+  "platform": "any",
+  "tags": [],
+  "is_enabled": true,
+  "logo_source": "manual",
+  "admin_notes": "",
+  "is_archived": false,
+  "original_url": "",
+  "reward_info": "",
+  "name": "Perkeasy",
+  "warning": "",
+  "hero_image_url": "",
+  "mobile_compatible": true,
+  "category_ids": [
+    "6a82cff2521fc70c8a83098a"
+  ],
+  "sort_order": 0,
+  "is_featured": false,
+  "status": "active",
+  "slug": "Perkeasy",
+  "id": "6aabf88b8dd1df22aa27f844",
+  "created_date": "2026-09-17T14:26:19.313000",
+  "updated_date": "2026-09-20T00:51:35.436000",
+  "created_by_id": "6a82e24f103b1f537a22246f",
+  "is_sample": false
+}
